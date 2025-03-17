@@ -9,4 +9,3 @@ new SMS was delivered. The data you need to show in app are SMS body , SenderId 
 sms was sent) and SMS Sent Time(The Time this SMS was sent by sender). We can also set the condition
 of senderId(Number From which sms will be sent) from which we need the read the SMS, give option in
 app from where we will enter the senderid(Number From which sms will be sent) dynamically.
-

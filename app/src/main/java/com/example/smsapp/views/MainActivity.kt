@@ -1,4 +1,4 @@
-package com.example.smsapp
+package com.example.smsapp.views
 
 import android.Manifest
 import android.content.BroadcastReceiver
@@ -17,6 +17,7 @@ import androidx.core.content.ContextCompat
 import androidx.core.widget.addTextChangedListener
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
+import com.example.smsapp.R
 import com.example.smsapp.adapter.SmsAdapter
 import com.example.smsapp.model.SmsData
 
